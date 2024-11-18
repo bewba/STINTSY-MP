@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
-popularity_vs_artist.png
-artist_mean_popularity.txt requirements.txt
+*.png
+*.txt
+dumps/
+
